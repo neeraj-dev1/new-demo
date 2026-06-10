@@ -1,3 +1,3 @@
 # new-demo
 This is my git repository
-Author - Neeraj
+Author - Neeraj jaiswal
